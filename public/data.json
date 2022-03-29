@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "name": "samsung-j1",
+      "price": 420,
+      "img": "https://i.ibb.co/k0SR5c1/samsung-j1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "samsung-j2",
+      "price": 420,
+      "img": "https://i.ibb.co/q5jK4BR/samsung-j2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "samsung-j3",
+      "price": 420,
+      "img": "https://i.ibb.co/S7c1g0d/samsung-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "samsung-j4",
+      "price": 420,
+      "img": "https://i.ibb.co/6nwyCdJ/samsung-j4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "samsung-j5",
+      "price": 420,
+      "img": "https://i.ibb.co/6nwyCdJ/samsung-j4.jpghttps://i.ibb.co/ctq9SkJ/samsung-j5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "samsung-j6",
+      "price": 420,
+      "img": "https://i.ibb.co/8DJnCBG/samsung-j6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "samsung-j7",
+      "price": 420,
+      "img": "https://i.ibb.co/rcv3xD9/samsung-j7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "samsung-j8",
+        "price": 420,
+        "img": "https://i.ibb.co/5vhcFKW/samsung-j8.jpg"
+      },
+      {
+        "id": 9,
+        "name": "samsung-j9",
+        "price": 420,
+        "img": "https://i.ibb.co/dQJg3KF/samsung-j9.jpg"
+      },
+      {
+        "id": 10,
+        "name": "samsung-j10",
+        "price": 420,
+        "img": "https://i.ibb.co/zQcpsd1/samsung-j10-ccexpress-2.jpg"
+      },
+      {
+        "id": 11,
+        "name": "samsung-j11",
+        "price": 420,
+        "img": "https://i.ibb.co/QFj5fxG/samsung-j11-ccexpress.jpg"
+      }
+]
