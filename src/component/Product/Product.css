@@ -4,11 +4,21 @@
     height: 430px;
     position: relative;
 }
+.name-price{
+    display: flex;
+    align-items: center;
+}
 .text{
     margin-top: 10px;
 }
+.text2{
+    margin-bottom: -2px;
+    font-size: 20px;
+    margin-left: 10px;
+}
 .add-cart{
-    background-color: blanchedalmond;
+    background-color: #197e99;
+    color: white;
     width: 100%;
     border: none;
     position: absolute;

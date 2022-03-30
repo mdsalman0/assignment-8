@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Samsung Galaxy Global site
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -12,7 +12,7 @@ const Cart = (props) => {
 
     return (
         <div className='cart'>
-            <h3>this is name</h3>
+            <h3>Selected Mobile</h3>
             <div className='style'>
             <h5 className='name-style'>{name}</h5>
             </div>

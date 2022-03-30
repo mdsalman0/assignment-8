@@ -13,7 +13,8 @@
 }
 
 .cart-container{
-    background-color: cornsilk;
+    background-color: #e6eaec;
+    color: black;
 }
 
 /* product-container responsive */
@@ -22,7 +23,7 @@
         display: grid;
         grid-template-columns: repeat(3,1fr);
         margin-right: 0;
-        padding-top: 100px;
+        /* padding-top: 100px; */
     }
     
   }
