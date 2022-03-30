@@ -1,0 +1,18 @@
+.product{
+    border: 2px solid #ddd;
+    padding: 10px;
+    height: 430px;
+    position: relative;
+}
+.text{
+    margin-top: 10px;
+}
+.add-cart{
+    background-color: blanchedalmond;
+    width: 100%;
+    border: none;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-weight: 700;
+}
