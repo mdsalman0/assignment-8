@@ -1,7 +1,10 @@
+/* mobile-container */
 .mobile-container{
     display: grid;
     grid-template-columns: 4fr 1fr;
 }
+
+/* product-container style */
 .product-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -12,6 +15,7 @@
     margin-right: 10px;
 }
 
+/* cart-container style*/
 .cart-container{
     background-color: #e6eaec;
     color: black;
@@ -52,5 +56,6 @@
         position:absolute;
         top: 100;
         justify-content: center;
+        /* position: sticky; */
     }
 }

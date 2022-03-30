@@ -1,3 +1,4 @@
+/* full cart style */
 .cart{
     position: sticky;
     top: 20px;
@@ -9,6 +10,10 @@
 .name-style{
     display: block;
     padding: 0px 15px;
+    background-color: lightpink;
+    color: rgb(68, 14, 14);
+    padding: 20px;
+    border-radius: 10px;
 }
 .choose{
     border: 1px solid #ddd;
