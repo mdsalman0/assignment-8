@@ -4,4 +4,19 @@
     text-align: center;
     margin: 0;
     padding: 20px 0px;
+
+}
+
+@media (min-width: 1281px) {
+    .site-name{
+        width: 100%;
+        margin: auto;
+    }
+    
+  }
+@media (min-width:320px) and (max-width:420px){
+  .site-name{ 
+    width: 100%;
+    margin: auto;
+  }
 }

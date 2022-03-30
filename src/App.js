@@ -1,4 +1,3 @@
-import * as ReactDOM from 'react-dom';
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -9,7 +8,7 @@ function App() {
   return (
     <div>
       <Header></Header>
-    <Shop></Shop>
+     <Shop></Shop>
     </div>
   );
 }
